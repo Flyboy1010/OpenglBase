@@ -1,0 +1,6 @@
+Assets/
+x64/
+imgui.ini
+*.vcxproj
+*.filters
+*.user
